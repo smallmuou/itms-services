@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://raw.githubusercontent.com/smallmuou/itms-services/master/test.ipa</string>
+                   <string>https://192.168.113.59/test.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -33,7 +33,7 @@
                <key>subtitle</key>
                <string>App Subtitle</string>
                <key>title</key>
-               <string>App Title11</string>
+               <string>App Title112</string>
            </dict>
        </dict>
    </array>
